@@ -1,0 +1,18 @@
+#flagImage {
+    width: 33%;
+    margin-left: 17%
+}
+
+#answerInput {
+    outline: none;
+}
+
+#buttonAnswer {
+    outline: none;
+    border: none;
+}
+
+#pass {
+    outline: none;
+    border: none;
+}
